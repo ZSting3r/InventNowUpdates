@@ -1,7 +1,8 @@
 {
-  "latest_version": "0.0.1",
+  "latest_version": "0.1.1",
   "version_code": 20,
-  "update_url": "https://github.com/ZSting3r/InventNow/releases/download/v0.0.1/inventnow.apk",
-  "release_notes": "• New feature added\n• Bug fixes\n• Performance improvements",
+  "update_url": "https://github.com/ZSting3r/InventNowUpdates/releases/download/Update_0.1.1/InventNow0-1-1.apk",
+  "release_notes": "• Nuevas caracteristicas \n• Correccion de errores \n• Mejoras de desempeño",
   "mandatory": true
+
 }
